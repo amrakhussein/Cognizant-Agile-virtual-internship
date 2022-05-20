@@ -19,8 +19,8 @@
 - Sequential
 
 ---
-#### _Agile_
 
+#### _Agile_
 
 ##### pros
 
@@ -28,7 +28,7 @@
 - Customer first approach focusing on communication
 - Simple – maximizing the work not done (MVP)/core functionalities first
 - Flexibility & Valuing feedback
-__ Sometimes, users may find that they need to add something half through the project. Or they may need to develop something
+  \_\_ Sometimes, users may find that they need to add something half through the project. Or they may need to develop something
 
 ##### cons
 
@@ -36,4 +36,3 @@ __ Sometimes, users may find that they need to add something half through the pr
 - Unexpected final product since the project may be redefined as it progresses
 - Fragmented software development (e.g. sprints)
 - May leads to issues in software quality when the user specify too fancy & not functional requirements esp half through the project
-

@@ -5,6 +5,7 @@
 #### _Role Assignment and Ceremonies in Scrum_
 
 ##### Product Owner
+
     • Role Description: Someone who has interpersonal & technical skills to manage relations among the team. Also, he/she has the vision/scope of the project.
     • Role Responsibilities:
         ◦ creates the vision of the product
@@ -12,7 +13,10 @@
         ◦ provide accurate user stories that meets users’ expectations
         ◦ manages the product backlog: so the PO helps prioritizing features for the dev team; so he/she helps in sprint planning
 
+---
+
 ##### Scrum Master
+
     • Role Description: Someone who helps oversee the scrum and development team
     • Role Responsibilities:
         ◦ ensures a smooth cooperation among team
@@ -20,14 +24,19 @@
         ◦ handle the administrative tasks
         ◦ conduct the daily stand-ups
 
+---
+
 #### _Development Team_
+
     • Role Description: They are the developers with the hard skills that turns the Product vision into reality!
-    • Role Responsibilities: 
+    • Role Responsibilities:
         ◦ translate vision into real code
         ◦ implement user stories
 
+---
 
 ##### _Ceremonies_
+
 Describe who needs to attend, when does the event happen, is it a recurring event, how long does it take and what is the purpose.
 Sprint Planning:
 
@@ -35,7 +44,7 @@ Sprint Planning:
     • At what time: on the first day of a new sprint
     • Frequency: for every sprint
     • How Long: it depends on the nature of the project; limited to 8 hrs for a month-long sprint
-    • Purpose: 
+    • Purpose:
         ◦ what is the scope & main goals for the product
             ▪ how realistic these goals are
         ◦ to discuss their plans for delivering the product; what priorities to start with
@@ -43,7 +52,7 @@ Sprint Planning:
         ◦ brings all team members on to the same table
             ▪ is everyone ready for the sprint?
 
-
+---
 
 ##### _Daily stand-up_
 
@@ -56,6 +65,8 @@ Sprint Planning:
         ◦ What will you do today?
         ◦ Any challenges?
 
+---
+
 ##### _Sprint Review_
 
     • Participants: Product Owner, Scrum Master & Development team members
@@ -66,6 +77,8 @@ Sprint Planning:
         ◦ is the work (user stories) perfectly done?
         ◦ is there additional work needed for the project
         ◦ is there additionaly unexpected cost or challenges
+
+---
 
 ##### _Sprint Retrospective_
 
